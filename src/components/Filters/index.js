@@ -3,7 +3,8 @@ import { Col, Row, Input, Typography, Radio, Select, Tag } from 'antd';
 const { Search } = Input;
 
 export default function Filters() {
-    return ( 
+    return (
+        <h1>alooo</h1>,
         <Row justify='center'>
             <Col span={24}>
                 <Typography.Paragraph
