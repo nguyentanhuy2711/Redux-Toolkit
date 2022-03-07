@@ -5,7 +5,8 @@ import Filters from './components/Filters';
 // import TodoList from './components/TodoList';
 function App() {
   return (
-    <Filters />
+    <Filters />,
+    <h1>Aloooo</h1>
   );
 }
 
